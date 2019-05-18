@@ -7,3 +7,12 @@
 
 返回实例参考 src/sample.json
 
+  | 字段   |      备注     |  实例  |
+  | :----: |   :----:     |  :--:  |
+  |itemId|商品ID|328153449|
+  |image1|横版图片|https://raw.githubusercontent.com/1007530194/marathon/master/image/image1/11.jpg|
+  |image2|竖版图片|https://raw.githubusercontent.com/1007530194/marathon/master/image/image2/11.jpg|
+
+
+  
+
